@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "sukkiri3.py",
+			"path": "../sukkiri3.py"
+		},
+		{
+			"name": "sukkiri2.py",
+			"path": "../sukkiri2.py"
+		},
+		{
+			"path": "../data.py"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
